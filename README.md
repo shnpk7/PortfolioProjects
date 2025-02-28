@@ -4,7 +4,9 @@
 ## Background 
 
 The goal of this project is to analyze the 2021 revenue of US users in order to surface recommendations for product and marketing strategies. This dataset contains purchases data with 1000K records from 5027 Amazon.com users, spanning 2018 through 2022. 
-Tableau dashboard can be found [here](https://public.tableau.com/app/profile/shin.p1459/viz/AmazonRevenueAnalysis2021/AmazonRevenueAnalysis).<br><br>
+
+- [SQL queries](https://github.com/shnpk7/PortfolioProjects/blob/main/purchases_queries.sql)
+- [Tableau dashboard](https://public.tableau.com/app/profile/shin.p1459/viz/AmazonRevenueAnalysis2021/AmazonRevenueAnalysis)<br><br>
 
 ![Image](https://github.com/user-attachments/assets/9dbba1c9-7401-4c15-adc8-05da4b05dca8)
 
