@@ -1,10 +1,10 @@
-# PortfolioProjects
+# Amazon Revenue Analysis (2021)
 
 
-## Background and Overview
+## Background 
 
-The goal of this project is to analyze the 2021 revenue of US users at Amazon in order to surface recommendations on future product and marketing strategies. This dataset contains purchases data with 1000K records from 5027 Amazon.com users, spanning 2018 through 2022. 
-Tableau dashboard can be found [here](https://public.tableau.com/app/profile/shin.p1459/viz/AmazonRevenueAnalysis2021/AmazonRevenueAnalysis).
+The goal of this project is to analyze the 2021 revenue of US users in order to surface recommendations for product and marketing strategies. This dataset contains purchases data with 1000K records from 5027 Amazon.com users, spanning 2018 through 2022. 
+Tableau dashboard can be found [here](https://public.tableau.com/app/profile/shin.p1459/viz/AmazonRevenueAnalysis2021/AmazonRevenueAnalysis).<br><br>
 
 ![Image](https://github.com/user-attachments/assets/9dbba1c9-7401-4c15-adc8-05da4b05dca8)
 
@@ -21,7 +21,7 @@ Each row in this file corresponds to an Amazon order, and consists of the follow
 - Title
 - Category
 
-Reference:
+#### Reference
 Berke, A., Calacci, D., Mahari, R. Yabe, T., Larson, K., & Pentland, S. Open e-commerce 1.0, five years of crowdsourced U.S. Amazon purchase histories with user demographics. Sci Data 11, 491 (2024). https://doi.org/10.1038/s41597-024-03329-6
 
 
