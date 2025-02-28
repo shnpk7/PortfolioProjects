@@ -143,9 +143,7 @@ ORDER BY 1
 -- Dimenstional segmentation: (i) Revenue by category
 SELECT 
 	"Category",
-	COUNT(DISTINCT "Survey ResponseID") AS distinct_making_purchases,
-	COUNT(*) AS no_of_purchases,
-    SUM(revenue) AS revenue
+    	SUM(revenue) AS revenue
 FROM purchases_clean
 WHERE DATE_PART('year', "Order date") = 2021
 GROUP BY 1
