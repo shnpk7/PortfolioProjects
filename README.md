@@ -37,8 +37,8 @@ Berke, A., Calacci, D., Mahari, R. Yabe, T., Larson, K., & Pentland, S. Open e-c
 - Interestingly, there is an unsual pattern in March 2021 where it had a significant spike in revenue at $1000K - investigate what happened internally or externally.
 
 #### Revenue by category
-- March saw a huge growth for revenue in **computer sales** at $31K. This is likely correlated to price growth at 29% YoY whereas # of purchases sold has grown at 0%.
-- **Book sales** is consistently the top category throughout the year.
+- March 2021 saw a huge growth for revenue in **computer sales** at $31K. This is likely correlated to price growth at 29% YoY whereas # of purchases sold has grown at 0%.
+- **Book sales** is consistently the top category throughout 2021.
 
 
 ## Key recommendations
