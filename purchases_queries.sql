@@ -55,13 +55,6 @@ ALTER TABLE purchases_clean
 ALTER COLUMN "Quantity" TYPE INTEGER USING "Quantity"::FLOAT::INTEGER;
 
 -- Remove non-critical rows, as dataset is limited to Oct 2022
-SELECT 
-	DATE_TRUNC('month', "Order date")::DATE AS order_date,
-	SUM("Purchase price per unit" * "Quantity") AS revenue
-FROM purchases_clean
-GROUP BY 1
-ORDER BY 1
-
 DELETE FROM purchases_clean
 WHERE DATE_PART('year', "Order date") BETWEEN 2023 AND 2024;
 
